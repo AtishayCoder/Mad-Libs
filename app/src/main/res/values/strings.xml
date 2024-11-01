@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mad Libs Generator</string>
+    <string name="enter_a_noun">Enter a noun</string>
+    <string name="enter_an_adjective">Enter an adjective</string>
+    <string name="enter_a_verb">Enter a verb</string>
+    <string name="enter_an_adverb">Enter an adverb</string>
+    <string name="enter_a_pronoun">Enter a pronoun</string>
+    <string name="enter_a_preposition">Enter a preposition</string>
+    <string name="generate_my_story">Generate my story</string>
+    <string name="once_upon_a_time_lived_a_an_was_the_king_of_animal_lands_and_trees_in_the_american_praries_one_day_got_mad_and_started_ing_all_the_subjects_came_to_the_king_in_anger_he_ate_all_his_subjects_and_died_shortly_after_the_end">Once upon a time lived a/an %1$s %2$s. %3$s was the king of Animal Lands and Trees in the American praries. One day, %4$s got mad, and started %5$sing %6$s. All the subjects came %7$s to the king. In %8$s anger, he ate all his subjects and died shortly after. THE END.</string>
+</resources>
